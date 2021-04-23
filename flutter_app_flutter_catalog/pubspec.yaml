@@ -63,7 +63,7 @@ flutter:
         - lib/routes/container.dart
         - lib/routes/rowcolumn.dart
         - lib/routes/wrap.dart
-        - lib/routes/expandedsizedbox.dart
+        - lib/routes/expandedsizebox.dart
         - lib/routes/stack.dart
         - lib/routes/listtile.dart
         - assets/images/image01.jpg
