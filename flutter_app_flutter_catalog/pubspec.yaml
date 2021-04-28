@@ -66,6 +66,9 @@ flutter:
         - lib/routes/expandedsizebox.dart
         - lib/routes/stack.dart
         - lib/routes/listtile.dart
+        - lib/routes/listview_builder.dart
+        - lib/routes/gridview.dart
+        - lib/routes/expansiontile.dart
         - assets/images/image01.jpg
         - assets/images/flutter_logo_leg.gif
   #   - images/a_dot_ham.jpeg
